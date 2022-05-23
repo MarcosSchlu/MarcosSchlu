@@ -25,9 +25,7 @@
 <br/>  
 <h3 align="left">  📊 GitHub Stats :</h3>  
 <br/>  
-[![](https://github-readme-stats.vercel.app/api?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)]<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosSchlu&theme=radical&hide_border=true)]<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)]
+    [![Marcos github stats](https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&theme=synthwave)](https://github.com/MarcosSchlu/github-readme-stats)
   
 <br/>  
 <h3 align="left">  🌐 Connect with me :</h3>  
