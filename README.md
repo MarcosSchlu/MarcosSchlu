@@ -4,7 +4,7 @@
   
 <h1 align="center">Hello World, I'm Marcos! I'm a Full-Stack Developer from Buenos Aires, Argentina </h1>  
 
-<h3 align="left"> 💻Tech Stack</h3>  
+<h3 align="left">  💻 Tech Stack :</h3>  
 
 <div align="center" width='100%'>
 <div align="center" justify-content="space-between" width='90%'>
@@ -27,14 +27,14 @@
 <div align="center" width='100%'>
 
 <br/>  
-<h3 align="left"> 📊GitHub Stats:</h3>  
+<h3 align="left">  📊 GitHub Stats :</h3>  
 <br/>  
 ![](https://github-readme-stats.vercel.app/api?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosSchlu&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <br/>  
-<h3 align="left">  🌐Connect with me :</h3>  
+<h3 align="left">  🌐 Connect with me :</h3>  
 <br/>  
 
 <div align="center">
