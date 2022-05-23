@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Marcos! <br/> I'm a Full-Stack Developer from Buenos Aires, Argentina </h1>  
-
+<br/> 
 <h3 align="left">  💻 Tech Stack :</h3>  
-
+<br/> 
 <div align="center" width='100%'>
 <div align="center" justify-content="space-between" width='90%'>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/>
@@ -25,14 +25,13 @@
 <br/>  
 <h3 align="left">  📊 GitHub Stats :</h3>  
 <br/>  
-![](https://github-readme-stats.vercel.app/api?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosSchlu&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+[![](https://github-readme-stats.vercel.app/api?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)]<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosSchlu&theme=radical&hide_border=true)]<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)]
+  
 <br/>  
 <h3 align="left">  🌐 Connect with me :</h3>  
 <br/>  
-
 <div align="center">
 <a href="https://github.com/MarcosSchlu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
