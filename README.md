@@ -22,6 +22,15 @@
 </div>
 <div align="center" width='100%'>
   
+<br/> 
+<h3 align="left">  📊 My Github Stats :</h3>  
+<br/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
+  <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
+
+<br/>
+  
 <br/>  
 <h3 align="left">  🌐 Connect with me :</h3>  
 <br/>  
