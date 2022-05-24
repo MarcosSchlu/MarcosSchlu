@@ -24,16 +24,23 @@
 
 
 <br/> 
+  <div width='100%'>
 <h3 align="left">  📊 My Github Stats :</h3>  
 <br/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-
+</div>
 <br/>
-<br/> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<div width='100%'>
 <h3 align="left">  🌐 Connect with me :</h3>  
 <br/>  
 <a href="https://github.com/MarcosSchlu" target="_blank">
@@ -42,4 +49,5 @@
 <a href="https://linkedin.com/in/marcosschlusselblum/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+</div>
 
