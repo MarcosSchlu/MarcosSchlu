@@ -20,6 +20,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="center" margin-left="10px"/>
 </div>
+  
 <div align="center" width='100%'>
   
 <br/> 
@@ -29,10 +30,11 @@
 <br/>
 <br/>
 <img align="left" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-
+</div>  
 <br/>
   
 <br/>  
+  <div align="center" width='100%'>
 <h3 align="left">  🌐 Connect with me :</h3>  
 <br/>  
 <div align="center">
