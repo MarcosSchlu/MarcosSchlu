@@ -20,20 +20,12 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="center" margin-left="10px"/>
 </p>
-  
 <br/> 
-
 <h3 align="left">📊 My Github Stats :</h3>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-
 <br/>
-<br/>
-<br/>
-<br/>
-
 <p>
 <h3 align="left">🌐 Connect with me :</h3>
 <br/>  
