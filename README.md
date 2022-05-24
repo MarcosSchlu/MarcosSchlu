@@ -1,6 +1,6 @@
-<h1 align="center">Hello World, I'm Marcos! <br/> I'm a Full-Stack Developer from Buenos Aires, Argentina </h1>  
+<h1 align="center">Hello World, I'm Marcos! <br/> I'm a Full-Stack Developer from Argentina </h1>  
 <br/> 
-<h3 align="left">  💻 Tech Stack :</h3>  
+##  💻 Tech Stack :
 <br/> 
 <div align="left" width='100%'>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/>
@@ -21,7 +21,7 @@
 </div>
   
 <br/> 
-<h3 align="left">  📊 My Github Stats :</h3>  
+##  📊 My Github Stats :
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
 
@@ -35,8 +35,8 @@
 <br/>
 <br/>
 
-<div width='100%'>
-<h3 align="left">  🌐 Connect with me :</h3>  
+
+##  🌐 Connect with me :
 <br/>  
 <a href="https://github.com/MarcosSchlu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -44,5 +44,5 @@
 <a href="https://linkedin.com/in/marcosschlusselblum/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>
+
 
