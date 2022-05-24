@@ -27,14 +27,12 @@
 <div width='100%'>
 <h3 align="left">  📊 My Github Stats :</h3>  
 <br/> 
-  </div>
-  <div width='100%'>
-<img align="left" width='40%' src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
 <br/>
 <br/>
-  </div>
-  <div width='100%'>
-<img align="left" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
 </div>
 <br/>
 <br/>
