@@ -21,11 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="center" margin-left="10px"/>
 </div>
 <div align="center" width='100%'>
-
-<br/>  
-<h3 align="left">  📊 GitHub Stats :</h3>  
-<br/>  
-    [![Marcos github stats](https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&theme=synthwave)](https://github.com/MarcosSchlu/github-readme-stats)
   
 <br/>  
 <h3 align="left">  🌐 Connect with me :</h3>  
