@@ -1,8 +1,10 @@
 <h1 align="center">Hello World, I'm Marcos! <br/> I'm a Full-Stack Developer from Argentina </h1>  
 <br/> 
-##  💻 Tech Stack :
 <br/> 
-<div align="left" width='100%'>
+<h3 align="left">💻 Tech Stack :</h3>
+<br/> 
+
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" align="center" margin-left="10px"/>
@@ -18,15 +20,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="center" margin-left="10px"/>
-</div>
+</p>
   
 <br/> 
-##  📊 My Github Stats :
-
+<h3 align="left">📊 My Github Stats :</h3>
+<br/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-
+<br/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-  
 <br/>
 <br/>
 <br/>
@@ -35,8 +36,7 @@
 <br/>
 <br/>
 
-
-##  🌐 Connect with me :
+<h3 align="left">🌐 Connect with me :</h3>
 <br/>  
 <a href="https://github.com/MarcosSchlu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
