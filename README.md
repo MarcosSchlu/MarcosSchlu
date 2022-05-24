@@ -1,6 +1,5 @@
 <h1 align="center">Hello World, I'm Marcos! <br/> I'm a Full-Stack Developer from Argentina </h1>  
-<br/> 
-<br/> 
+
 <h3 align="left">💻 Tech Stack :</h3>
 <br/> 
 
