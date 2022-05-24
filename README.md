@@ -3,7 +3,6 @@
 <h3 align="left">  💻 Tech Stack :</h3>  
 <br/> 
 <div align="left" width='100%'>
-<div align="left" justify-content="space-between" width='90%'>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" align="center" margin-left="10px"/>
