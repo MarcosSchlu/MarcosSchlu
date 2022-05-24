@@ -21,21 +21,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="center" margin-left="10px"/>
 </div>
   
-
-
 <br/> 
-<div width='100%'>
 <h3 align="left">  📊 My Github Stats :</h3>  
 <br/> 
-
+<br/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-</div>
 <br/>
 <br/>
-<br/>
-<div width='100%'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-</div>
 <br/>
 <br/>
 <br/>
