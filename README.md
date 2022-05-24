@@ -22,7 +22,7 @@
 </div>
   
 
-<div align="left" width='100%'>
+
 <br/> 
 <h3 align="left">  📊 My Github Stats :</h3>  
 <br/> 
@@ -30,10 +30,10 @@
 <br/>
 <br/>
 <img align="left" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-</div>  
+
 <br/>
 <br/> 
-<div align="left" width='100%'>
+
 <h3 align="left">  🌐 Connect with me :</h3>  
 <br/>  
 <a href="https://github.com/MarcosSchlu" target="_blank">
@@ -42,4 +42,4 @@
 <a href="https://linkedin.com/in/marcosschlusselblum/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+
