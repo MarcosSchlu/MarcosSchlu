@@ -2,8 +2,8 @@
 <br/> 
 <h3 align="left">  💻 Tech Stack :</h3>  
 <br/> 
-<div align="center" width='100%'>
-<div align="center" justify-content="space-between" width='90%'>
+<div align="left" width='100%'>
+<div align="left" justify-content="space-between" width='90%'>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" align="center" margin-left="10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" align="center" margin-left="10px"/>
@@ -25,9 +25,10 @@
 <br/> 
 <h3 align="left">  📊 My Github Stats :</h3>  
 <br/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
-  <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
+<img align="left" width='100%' src="https://github-readme-stats.vercel.app/api?username=MarcosSchlu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
+<br/>
+<br/>
+<img align="left" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSchlu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MarcosSchlu" />
 
 <br/>
   
